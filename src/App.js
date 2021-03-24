@@ -17,7 +17,7 @@ export default class App extends React.Component {
         </div>
         <div className="footer">
           <span>Michał Czyż & Dawid Głąb &copy;2021</span>
-          <span>All Rights Reserved</span>
+          <span></span>
         </div>
       </div>
     )
